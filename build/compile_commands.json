@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/szymon/cppProjects/rownania_nieliniowe/build",
+  "command": "/usr/bin/c++  -I/home/szymon/cppProjects/rownania_nieliniowe/include -g -o CMakeFiles/MyExecutable.dir/main.cpp.o -c /home/szymon/cppProjects/rownania_nieliniowe/main.cpp",
+  "file": "/home/szymon/cppProjects/rownania_nieliniowe/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/szymon/cppProjects/rownania_nieliniowe/build/CMakeFiles/rebuild_cache.dir
+/home/szymon/cppProjects/rownania_nieliniowe/build/CMakeFiles/edit_cache.dir
+/home/szymon/cppProjects/rownania_nieliniowe/build/CMakeFiles/MyExecutable.dir
